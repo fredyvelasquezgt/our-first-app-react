@@ -1,9 +1,8 @@
-function choice() {
+function choice(items) {
 
 }
 
-function remove() {
-
+function remove(items, item) {
 }
 
 export {choice, remove}
